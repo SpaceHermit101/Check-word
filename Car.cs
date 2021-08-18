@@ -22,6 +22,7 @@ namespace Practice_C_
       Console.WriteLine($"this is a {Ford.year} {Ford.model} whis has a bright {Ford.colour} colour");
       Car fiuu = new Car("fiiij","blue",1939);
       Console.WriteLine(fiuu.colour);
+      Console.WriteLine("Iam just learning to code ");
     }
   }
 }
